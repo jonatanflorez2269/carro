@@ -1,0 +1,3 @@
+Int Color
+String marca
+String material
